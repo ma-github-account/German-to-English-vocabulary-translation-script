@@ -4,8 +4,9 @@ Pons dictionary: https://en.pons.com/translate Pons Rest Api: https://en.pons.co
 
 1.Prerequisites:
 
-Requests (pip install requests)
-Pons Account. It allows to obtain X-Secret that enables rest communication. One is already provided in the script translations_management.py so that the script works, but please notice that provided one will expire after some time.
+- Requests (pip install requests)
+- Pons Account. It allows to obtain X-Secret that enables rest communication. One is already provided in the script translations_management.py so that the script works, but please notice that provided one will expire after some time.
+
 2.How to run scripts - example: python vocabulary_translation_script.py "Wenn die Sonne weg ist, ist es ganz kalt"
 
 ![translation](https://user-images.githubusercontent.com/89083426/129732818-37d28bd0-9183-47d0-b3d9-5433cde5fb00.png)
